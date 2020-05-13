@@ -1,0 +1,8 @@
+0:Other
+1:Emotion
+2:Greet
+3:Accept
+4:Reject
+5:Question
+6:Bye
+7:Clarify

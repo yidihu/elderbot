@@ -1,0 +1,12 @@
+assets/intent/NBcount.sav:0.6409214092140921
+assets/intent/NBtdidf.sav:0.6531165311653117
+assets/intent/NBngram.sav:0.3861788617886179
+assets/intent/NBchar.sav:0.43766937669376693
+assets/intent/LRcount.sav:0.7466124661246613
+assets/intent/LRtdidf.sav:0.7357723577235772
+assets/intent/LRngram.sav:0.46883468834688347
+assets/intent/LRchar.sav:0.537940379403794
+assets/intent/RFcount.sav:0.7317073170731707
+assets/intent/RFtdidf.sav:0.7452574525745257
+assets/intent/RFngram.sav:0.38482384823848237
+assets/intent/RFchar.sav:0.7195121951219512
