@@ -1,0 +1,12 @@
+./assets/topic/LRngram.sav:0.8759398496240601
+./assets/topic/RFngram.sav:0.6650375939849624
+./assets/topic/NBtdidf.sav:0.9530075187969925
+./assets/topic/LRchar.sav:0.4710526315789474
+./assets/topic/RFchar.sav:0.6721804511278195
+./assets/topic/LRtdidf.sav:0.9582706766917293
+./assets/topic/NBngram.sav:0.9169172932330827
+./assets/topic/RFtdidf.sav:0.9281954887218045
+./assets/topic/NBchar.sav:0.3447368421052632
+./assets/topic/NBcount.sav:0.9466165413533835
+./assets/topic/LRcount.sav:0.9526315789473684
+./assets/topic/RFcount.sav:0.9270676691729324

@@ -1,0 +1,6 @@
+0:others
+1:SnT
+2:politics
+3:Med
+4:religion
+5:sports
